@@ -1,1 +1,4 @@
+error.log
 .env
+.DS_Store
+*.log
